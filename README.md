@@ -75,5 +75,6 @@ A full list is in requirements.txt.
 
 ## 📝 License
 
-This project is licensed under the **MIT License** – see the [(https://github.com/mateluky/covid19-patient-status-prediction/blob/main/LICENSE)](LICENSE) file for details.
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
 
