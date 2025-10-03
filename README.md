@@ -121,7 +121,8 @@ Main Python libraries:
 - matplotlib
 - seaborn
 
-A full list is in requirements.txt.
+A full list is in [requirements.txt](requirements.txt).
+
 
 ## 📝 License
 
